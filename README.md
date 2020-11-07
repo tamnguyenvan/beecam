@@ -14,7 +14,7 @@ To archieve the goal, we combined several components.
 *Note: Windows 10 only for now*
 
 **Pre-built binary**
-You can download the [pre-built version]() and use it directly without any effort.
+You can download the [prebuilt version](https://github.com/tamnguyenvan/beecam/releases) and use it directly without any effort.
 
 **From source**
 In case you want to build it manually from source, please go through the following steps.
