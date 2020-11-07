@@ -1,6 +1,7 @@
 # Beecam
 
 Real time Virtual Background Desktop App (Windows only for now).
+![demo](assets/demo.gif)
 ## What it can do?
 This app can read frames from real physical webcam/camera, replace it with virtual background. It could be used as a virtual camera source for other apps like Skype, Zoom, etc. Specially, it can run on **CPU** in real time. We got ~24 FPS on `Intel core i5 9500F`.
 To archieve the goal, we combined several components.
@@ -12,8 +13,10 @@ To archieve the goal, we combined several components.
 - `OpenVino`: Deep Learning model optimization framework.
 ## Installation
 *Note: Windows 10 only for now*
+
 **Pre-built binary**
 You can download the [pre-built version]() and use it directly without any effort.
+
 **From source**
 In case you want to build it manually from source, please go through the following steps.
 - Clone this repo to local: `git clone https://github.com/tamnguyenvan/beecam`
